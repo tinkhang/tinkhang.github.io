@@ -1,28 +1,28 @@
 {
-  "name": "new-age",
-  "title": "New Age",
+  "name": "tinkhang",
+  "title": "Tin Khang Pages",
   "version": "3.3.7",
-  "homepage": "http://startbootstrap.com/template-overviews/new-age",
+  "homepage": "https://tk-electronic.com/",
   "author": "Start Bootstrap",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    "url": "https://github.com/tinkhang/tinkhang.github.io/blob/master/LICENSE"
   },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
-    "browser-sync": "^2.13.0",
-    "font-awesome": "^4.6.3",
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^2.0.10",
-    "gulp-header": "^1.8.7",
-    "gulp-less": "^3.1.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^1.5.4",
-    "jquery": "^1.11.3"
+    "bootstrap": "3.3.7",
+    "browser-sync": "2.24.6",
+    "font-awesome": "4.7.0",
+    "gulp": "3.9.1",
+    "gulp-clean-css": "2.4.0",
+    "gulp-header": "1.8.12",
+    "gulp-less": "3.5.0",
+    "gulp-rename": "1.4.0",
+    "gulp-uglify": "1.5.4",
+    "jquery": "3.3.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+    "url": "https://github.com/tinkhang/tinkhang.github.io.git"
   },
   "dependencies": {
     "simple-line-icons": "^2.3.2"
